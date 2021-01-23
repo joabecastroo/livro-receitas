@@ -1,4 +1,4 @@
-#Strogonoff de Frango 
+#Strogonoff de Frango#
 
 INGREDIENTES
 1 colher (sopa) de azeite de oliva
